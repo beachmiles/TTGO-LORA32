@@ -1,4 +1,4 @@
-# TTGO-LORA32-V2.1
+# TTGO-LORA32-V2.1 AKA T3_V1.6
 
 Added SD card functionality so both the SD card and LORA can operate at the same time.
 Tested using this V2.1-T3_V1.6 board.
